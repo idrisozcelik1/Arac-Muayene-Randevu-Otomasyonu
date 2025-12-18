@@ -14,8 +14,6 @@ C# ve SQLite kullanılarak geliştirilmiş, araç muayene süreçlerini takip ed
 * SQLite / ADO.NET
 * MS Chart (Veri Görselleştirme)
 
-## 📷 Ekran Görüntüleri
-*(Buraya projenden aldığın resimleri sürükleyip bırakabilirsin, GitHub otomatik linke çevirir)*
 
 ## 🚀 Kurulum
 1. Projeyi indirin veya kopyalayın.
